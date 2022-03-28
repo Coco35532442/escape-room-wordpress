@@ -8,7 +8,7 @@
       <?php get_template_part('about'); ?>
     </div>
   </section>
-  <section class="mb-5">
+  <section class="mb-5 container">
     <?php get_template_part('assess'); ?>
   </section>
   <section class="bg-light">
